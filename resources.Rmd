@@ -1,7 +1,0 @@
----
-title:
-output:
-  html_document:
-    df_print: paged
----
-Here include resources for students to use when working on projects
