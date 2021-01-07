@@ -1,0 +1,20 @@
+
+---
+title:
+output:
+  html_document:
+    df_print: paged
+---
+
+<h1 style="text-align:center">Columbia STATCOM</h1>
+
+<p>
+
+<img src="images/statcom_logo.PNG" style="width:50%" align="left" hspace="20"> 
+
+(description of club)
+
+(description of participants)
+
+</p>
+

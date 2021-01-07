@@ -1,0 +1,23 @@
+name: "Columbia Biostatistics Computing Club"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+     - text: "Ongoing Projects"
+       href: old_schedule.html
+     - text: "Resources"
+       href: resources.html
+     - text: "About"
+       href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<crf2147@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: https://github.com/columbia-computing-club
+output:
+  html_document:
+    include:
+        after_body: footer.html
+    theme: cerulean
+    css: styles.css
+google_analytics: "UA-124182553-2"

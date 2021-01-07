@@ -1,0 +1,9 @@
+---
+title: Resources
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+Here include resources for students to use when working on projects
