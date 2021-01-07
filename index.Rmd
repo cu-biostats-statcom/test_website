@@ -1,20 +1,22 @@
 
 ---
-title:
+title: STATCOM - Columbia Biostatistics 
 output:
   html_document:
     df_print: paged
 ---
 
-<h1 style="text-align:center">Columbia STATCOM</h1>
+
 
 <p>
 
-<img src="images/statcom_logo.PNG" style="width:50%" align="left" hspace="20"> 
+<img src="images/statcom_logo.PNG" style="width:25%" align="left" hspace="20"> 
 
-(description of club)
+STATCOM (Statistics in the Community) is a student organization of the the Columbia Biostatistics department aiming to provide statistical consultation on a volunteer basis to organizations in the New York City area. Through participation students benefit by gaining hand on experience while providing service to our local community. 
 
-(description of participants)
+<p>
+
+STATCOM is lead by Columbia Biostatistics students [Maddie Stoms](https://www.linkedin.com/in/madison-stoms-597155127/), [Charly Fowler](https://www.linkedin.com/in/charlotte-fowler-2a86b71a0/), Steven Lawrence, and [Muhire Kwizera](https://www.linkedin.com/in/muhire-honorine-kwizera-96253583/) with the help of faculty advisor [Cody Chiuzan](https://www.publichealth.columbia.edu/people/our-faculty/cc3780). 
 
 </p>
 
